@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am plugin/mod developer mainly for minecraft.<br>
-I am learning Rust!<br>
-before:  javascript/typescript(2024-12-23)
+I am learning javascript/typescript!<br>
+before:  Rust(2024-12-26)
 <br>
 ![](https://github.com/bella2391/branding/blob/master/banner/fmc.png "Banner")<br>
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keypforev.f5.si/)<br><br>
