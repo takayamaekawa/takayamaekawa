@@ -4,7 +4,7 @@ I am learning `javascript`/`typescript`!
 before:  `Rust`(2024-12-26)
 
 ## Contact 📤
-plz contact me by two method below.  
+plz contact me by either of the two methods below.
 * [X-@bella_2391](https://x.com/bella_2391)
 * [FMC-discord(disboard)](https://disboard.org/server/1094969099349671971)
 
