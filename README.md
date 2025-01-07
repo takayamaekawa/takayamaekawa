@@ -3,12 +3,12 @@ I am plugin/mod developer mainly for minecraft.
 I am learning `javascript`/`typescript`!  
 before:  `Rust`(2024-12-26)
 
-## Contact
+## Contact 📤
 plz contact me by two method below.  
 * [X-@bella_2391](https://x.com/bella_2391)
 * [FMC-discord(disboard)](https://disboard.org/server/1094969099349671971)
 
-## Contribution
+## Contribution 🏆
 ![](https://github.com/bella2391/branding/blob/master/banner/fmc.png "Banner")  
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keypforev.f5.si/)
 
