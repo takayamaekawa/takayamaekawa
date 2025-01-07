@@ -14,7 +14,7 @@ plz contact me by two method below.
 
 ## Lang 🎓
 In my view, the best lang i can use is `Java`, to the next `PHP`, `js`/`ts`.  
-I wanna learn seriously `javascript`/`typescript` now!  
+I wanna learn seriously `javascript`/`typescript` now!    
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,php,python,js,ts,rust"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=outrun" />
