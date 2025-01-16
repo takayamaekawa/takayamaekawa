@@ -13,7 +13,7 @@ plz contact me by either of the two methods below.
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keypforev.f5.si/)
 
 ## Lang 🎓
-In my view, the best lang i can use is `Java`, to the next `PHP`, `js`/`ts`.  
+In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.  
 I wanna learn seriously `javascript`/`typescript` now!  
   
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,php,python,js,ts,rust"><br>
