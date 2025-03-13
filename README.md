@@ -15,7 +15,7 @@ I'm glowing up with Neovim, which is for only myself.
 
 ## Learn now 🔝
 I am learning `scala`, `c++`.  
-<img alt="my skills" src="https://skillicons.dev/icons?i=scala,c&theme=light"><br>
+<img alt="my skills" src="https://skillicons.dev/icons?i=scala,cpp&theme=light"><br>
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
 Before:  
 - `js/ts`(2025-03-14)  
@@ -34,10 +34,9 @@ plz contact me by either of the two methods below.
 
 ## Lang 🎓
 In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.  
-I wanna learn seriously `scala`. `c++` now!  
   
 Here are the languages I've learned in the past:  
-<img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,python,scala,rust&theme=light"><br><br>
+<img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light"><br><br>
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
   <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
