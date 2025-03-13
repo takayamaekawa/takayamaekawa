@@ -4,7 +4,7 @@ No, I am doing practice for my enjoyable programming!
 Always every time, interesting about programming, and running it right away.  
 This is what I'm good at.  
 
-## I don't use VSCode
+## I DON'T USE VSCODE
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!
 Are you insterested in Vim?  
