@@ -8,7 +8,7 @@ This is what I'm good at.
 <img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!  
-Are you insterested in Vim?  
+Are you interested in Vim?  
 If you do like so, it would be pleasure to see my [Neovim-Setting-Repo](https://github.com/bella2391/my-nvim.git).  
 I'm glowing up with Neovim, which is for only myself.
 
