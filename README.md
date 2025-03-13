@@ -32,12 +32,12 @@ In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.
 I wanna learn seriously `scala`. `c++` now!  
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,python,scala,rust&theme=light"><br><br>
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
-  <div style="margin: 20px;">
+  <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bella2391&show_icons=true&theme=gruvbox_light&layout=compact" />
     </a>
   </div>
-  <div style="margin: 20px;">
+  <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=moltack" />
     </a>
