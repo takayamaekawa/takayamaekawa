@@ -7,7 +7,7 @@ This is what I'm good at.
 ## I don't use VSCode
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!
-Are you insterested in Vim?
+Are you insterested in Vim?  
 If you do like so, it would be pleasure to see my [Neovim-Setting-Repo](https://github.com/bella2391/my-nvim.git).  
 I'm glowing up with Neovim, which is for only myself.
 
