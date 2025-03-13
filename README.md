@@ -15,6 +15,7 @@ I'm glowing up with Neovim, which is for only myself.
 
 ## Learn now
 I am learning `scala`, `c++`.  
+<img alt="my skills" src="https://skillicons.dev/icons?i=scala,c&theme=light"><br>
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
 Before:  
 - `js/ts`(2025-03-14)  
