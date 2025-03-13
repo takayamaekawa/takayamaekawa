@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am plugin/mod developer mainly for minecraft.  
-I am learning `scala`, `c++`!  
+I am learning `scala`, `c++`.  
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
 before:  
 * `js/ts`(2025-03-14)
