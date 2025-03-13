@@ -34,7 +34,8 @@ plz contact me by either of the two methods below.
 
 ## Lang 🎓
 In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.  
-I wanna learn seriously `scala`. `c++` now!  
+I wanna learn seriously `scala`. `c++` now!    
+Here are the languages I've learned in the past:  
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,python,scala,rust&theme=light"><br><br>
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
   <div style="margin: 30px;">
