@@ -17,8 +17,10 @@ I'm glowing up with Neovim, which is for only myself.
 I am learning `scala`, `c++`.  
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
 Before:  
-* `js/ts`<img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light">(2025-03-14)
-* `Rust`<img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light">(2024-12-26)
+* `js/ts`(2025-03-14)
+  <img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light">
+* `Rust`(2024-12-26)
+  <img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light">
 
 
 ## Contact 📤
