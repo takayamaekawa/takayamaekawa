@@ -5,7 +5,7 @@ Always every time, interesting about programming, and running it right away.
 This is what I'm good at.  
 
 ## <div>I DON'T USE VSCODE&nbsp;❌
-<img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light"><span style="font-size: 2em; vertical-align: super;">➡</span><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
+<img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light"><svg width="2em" height="1em" viewBox="0 0 24 24" style="transform: translateY(-0.2em);"><path d="M10 17l5-5-5-5v10zM3 12h12v2H3z" /></svg><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!  
 Are you insterested in Vim?  
