@@ -4,7 +4,7 @@ No, I am doing practice for my enjoyable programming!
 Always every time, interesting about programming, and running it right away.  
 This is what I'm good at.  
 
-## <div style="line-height: 1.5;">I DON'T USE VSCODE&nbsp;&nbsp;<a href="https://skillicons.dev"><img style="margin-bottom: 50px;" src="https://skillicons.dev/icons?i=vscode&theme=light" width="25px" height="auto" /></a>🚫</div>
+## <div>I DON'T USE VSCODE&nbsp;&nbsp;<a href="https://skillicons.dev"><img style="margin-bottom: 50px;" src="https://skillicons.dev/icons?i=vscode&theme=light" width="25px" height="auto" /></a>🚫</div>
 I have been using Neovim for a while.  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /></a><br>
 You know, it's called Vimmer!!
