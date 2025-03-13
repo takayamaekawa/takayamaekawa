@@ -39,7 +39,7 @@ I wanna learn seriously `scala`. `c++` now!
   </div>
   <div style="margin: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=catppuccin_mocha" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=moltack" />
     </a>
   </div>
 </div>
