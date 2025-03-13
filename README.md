@@ -1,7 +1,9 @@
 ## Hi there 👋
 I am plugin/mod developer mainly for minecraft.  
-I am learning `javascript`/`typescript`!  
-before:  `Rust`(2024-12-26)
+I am learning `scala`, `c++`!  
+before:  
+* `js/ts`(2025-03-14)
+* `Rust`(2024-12-26)
 
 ## Contact 📤
 plz contact me by either of the two methods below.
@@ -14,7 +16,7 @@ plz contact me by either of the two methods below.
 
 ## Lang 🎓
 In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.  
-I wanna learn seriously `javascript`/`typescript` now!  
+I wanna learn seriously `scala`. `c++` now!  
   
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,php,python,js,ts,rust"><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
