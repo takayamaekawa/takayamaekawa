@@ -5,6 +5,9 @@ Always every time, interesting about programming, and running it right away.
 This is what I'm good at.  
 
 ## I DON'T USE VSCODE
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" />
+</a>
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!
 Are you insterested in Vim?  
