@@ -7,7 +7,7 @@ This is what I'm good at.
 ## I DON'T USE VSCODE
 
 I have been using Neovim for a while.  
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /></a><br>
 You know, it's called Vimmer!!
 Are you insterested in Vim?  
 If you do like so, it would be pleasure to see my [Neovim-Setting-Repo](https://github.com/bella2391/my-nvim.git).  
