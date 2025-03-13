@@ -4,7 +4,7 @@ No, I am doing practice for my enjoyable programming!
 Always every time, interesting about programming, and running it right away.  
 This is what I'm good at.  
 
-## I DON'T USE VSCODE
+## I DON'T USE VSCODE 🚫
 
 I have been using Neovim for a while.  
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /></a><br>
@@ -13,7 +13,7 @@ Are you insterested in Vim?
 If you do like so, it would be pleasure to see my [Neovim-Setting-Repo](https://github.com/bella2391/my-nvim.git).  
 I'm glowing up with Neovim, which is for only myself.
 
-## Learn now
+## Learn now 🔝
 I am learning `scala`, `c++`.  
 <img alt="my skills" src="https://skillicons.dev/icons?i=scala,c&theme=light"><br>
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
