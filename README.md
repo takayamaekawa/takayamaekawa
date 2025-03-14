@@ -9,7 +9,7 @@ This is what I'm good at.
 I have been using Neovim for a while.  
 You know, it's called Vimmer!!  
 Are you interested in Vim?  
-If you do like so, it would be pleasure to see my [Neovim-Setting-Repo](https://github.com/bella2391/my-nvim.git).  
+If you do like so, it would be pleasure to see repo: [My-Neovim-Setting](https://github.com/bella2391/My-Neovim-Setting).  
 I'm glowing up with Neovim, which is for only myself.
 
 ## Learn now 🔝
