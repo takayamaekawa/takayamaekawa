@@ -14,7 +14,7 @@ I'm glowing up with Neovim, which is for only myself.
 
 ## Share Dev-Environment with Me?
 Here is a Docker image by my own.
->> [WSL-Devkit](https://github.com/bella2391/WSL-Devkit)
+\>\> [WSL-Devkit](https://github.com/bella2391/WSL-Devkit)
 
 ## Learn now 🔝
 I am learning `scala`, `c++`.  
