@@ -51,7 +51,7 @@ Here are the languages I've learned in the past:
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=moltack" />
     </a>
   </div>
-</div>
+</div><br>
 
 ## Other Links
 * [My-Gist](https://gist.github.com/bella2391)
