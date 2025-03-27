@@ -53,4 +53,5 @@ Here are the languages I've learned in the past:
   </div>
 </div>
 
-
+## Other Links
+* [My-Gist](https://gist.github.com/bella2391)
