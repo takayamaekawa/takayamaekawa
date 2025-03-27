@@ -54,5 +54,5 @@ Here are the languages I've learned in the past:
   </div>
 </div><br>
 
-## Other Links
+## Other Links 🔗
 * [My-Gist](https://gist.github.com/bella2391)
