@@ -17,8 +17,8 @@ Here is a Docker image by my own.
 \>\> [WSL-Devkit](https://github.com/bella2391/WSL-Devkit)
 
 ## Learn now 🔝
-I am learning `scala`, `c++`.  
-<img alt="my skills" src="https://skillicons.dev/icons?i=scala,cpp&theme=light"><br>
+I am learning `python`, `scala`, `c++`.  
+<img alt="my skills" src="https://skillicons.dev/icons?i=python,scala,cpp&theme=light"><br>
 Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
 Before:  
 - `js/ts`(2025-03-14)  
