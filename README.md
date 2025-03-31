@@ -55,4 +55,4 @@ Here are the languages I've learned in the past:
 </div><br>
 
 ## Other Links 🔗
-* [My-Gist](https://gist.github.com/bella2391)
+* [gist](https://gist.github.com/bella2391)
