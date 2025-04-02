@@ -14,17 +14,25 @@ I'm glowing up with Neovim, which is for only myself.
 
 ## MY FULL DEV-ENVIRONMENT
 Here is a Docker image by my own.
-\>\> [WSL-Devkit](https://github.com/bella2391/WSL-Devkit)
+\>\> [devkit](https://github.com/bella2391/devkit)
 
 ## Learn now 🔝
-I am learning `python`, `scala`, `c++`.  
+I am learning `python`, `scala`.  
 <img alt="my skills" src="https://skillicons.dev/icons?i=python,scala,cpp&theme=light"><br>
-Visit my repository for [learning](https://github.com/bella2391/Learning.git)!  
-Before:  
-- `js/ts`(2025-03-14)  
+Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)
+### History ⏪
+- `scala` - 03/10/2025 ~ now  
+<img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"><br>
+- `c/c++` - 02/01/2025 ~ now  
+<img alt="my skills" src="https://skillicons.dev/icons?i=c,cpp&theme=light"><br>
+- `js/ts` - 01/01/2025 ~ now  
 <img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light"><br>
-- `Rust`(2024-12-26)  
+- `rust` - 12/01/2024 ~ 12/01/2024  
 <img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light"><br>
+- `java` - 10/01/2023 ~ now  
+<img alt="my skills" src="https://skillicons.dev/icons?i=java&theme=light"><br>
+- `php` - 05/01/2022 ~ xx/xx/2024  
+<img alt="my skills" src="https://skillicons.dev/icons?i=php&theme=light"><br>
 
 ## Contact 📤
 plz contact me by either of the two methods below.
@@ -36,7 +44,7 @@ plz contact me by either of the two methods below.
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keyp.f5.si/)
 
 ## Lang 🎓
-In my view, the best lang i can use is `Java`, to the next `js`/`ts`, `PHP`.  
+In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `php`.  
   
 Here are the languages I've learned in the past:  
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light"><br><br>
