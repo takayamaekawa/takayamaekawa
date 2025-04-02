@@ -17,14 +17,6 @@ Here is a Docker image by my own.
 \>\> [devkit](https://github.com/bella2391/devkit)
 
 ## Learn now 🔝
-<details>
-  <summary>メニュー</summary>
-  <ul>
-    <li>項目1</li>
-    <li>項目2</li>
-    <li>項目3</li>
-  </ul>
-</details>
 I am learning `python`, `scala`.  
 <img alt="my skills" src="https://skillicons.dev/icons?i=python,scala,cpp&theme=light"><br>
 Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)  
