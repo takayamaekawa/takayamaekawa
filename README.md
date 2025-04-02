@@ -11,6 +11,7 @@ You know, it's called Vimmer!!
 Are you interested in Vim?  
 If you do like so, it would be pleasure to see my neovim settings repo: [nvim](https://github.com/bella2391/nvim).  
 I'm glowing up with Neovim, which is for only myself.
+From 02/01/2025 ~ now
 
 ## MY FULL DEV-ENVIRONMENT
 Here is a Docker image by my own.  
