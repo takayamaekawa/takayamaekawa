@@ -24,12 +24,12 @@ Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)
 <details style="font-size: 1.2em;">
   <summary>History ⏪</summary>
   <ul>
-    <li><code>scala</code> - <span style="text-decoration: underline;">03/10/2025 ~ now</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"></li>
-    <li><code>c/c++</code> - <span style="text-decoration: underline;">02/01/2025 ~ now</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=c,cpp&theme=light"></li>
-    <li><code>js/ts</code> - <span style="text-decoration: underline;">01/01/2025 ~ now</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light"></li>
-    <li><code>rust</code> - <span style="text-decoration: underline;">12/01/2024 ~ 12/01/2024</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light"></li>
-    <li><code>java</code> - <span style="text-decoration: underline;">10/01/2023 ~ now</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=java&theme=light"></li>
-    <li><code>php</code> - <span style="text-decoration: underline;">05/01/2022 ~ xx/xx/2024</span> <br><img alt="my skills" src="https://skillicons.dev/icons?i=php&theme=light"></li>
+    <li><code>scala</code> - 03/10/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"></li>
+    <li><code>c/c++</code> - 02/01/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=c,cpp&theme=light"></li>
+    <li><code>js/ts</code> - 01/01/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light"></li>
+    <li><code>rust</code> - 12/01/2024 ~ 12/01/2024 <br><img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light"></li>
+    <li><code>java</code> - 10/01/2023 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=java&theme=light"></li>
+    <li><code>php</code> - 05/01/2022 ~ xx/xx/2024 <br><img alt="my skills" src="https://skillicons.dev/icons?i=php&theme=light"></li>
   </ul>
 </details>
 
