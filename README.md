@@ -6,7 +6,8 @@ This is what I'm good at.
 
 ## <div>I DON'T USE VSCODE&nbsp;❌
 <img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
-I have been using Neovim for a while.  
+I used to use VSCode.  
+But now, I have been using Neovim for a while.  
 You know, it's called Vimmer!!  
 Are you interested in Vim?  
 If you do like so, it would be pleasure to see my neovim settings repo: [nvim](https://github.com/bella2391/nvim).  
