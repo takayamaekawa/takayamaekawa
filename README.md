@@ -13,8 +13,8 @@ If you do like so, it would be pleasure to see my neovim settings repo: [nvim](h
 I'm glowing up with Neovim, which is for only myself.
 
 ## MY FULL DEV-ENVIRONMENT
-Here is a Docker image by my own.
-\>\> [devkit](https://github.com/bella2391/devkit)
+Here is a Docker image by my own.  
+If interested, see [devkit](https://github.com/bella2391/devkit) in details.
 
 ## Learn now 🔝
 I am learning `python`, `scala`.  
