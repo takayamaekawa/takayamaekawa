@@ -1,6 +1,5 @@
 ## Hi there 👋
-~~I am plugin/mod developer mainly for minecraft.~~  
-No, I am doing practice for my enjoyable programming!  
+I am vim-like person and also minecraft plugin/mod developer.  
 Always every time, interesting about programming, and running it right away.  
 This is what I'm good at.  
 
