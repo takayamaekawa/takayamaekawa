@@ -18,7 +18,7 @@ If interested, see [devkit](https://github.com/bella2391/devkit) in details.
 
 ## Learn now 🔝
 I am learning `python`, `scala`.  
-<img alt="my skills" src="https://skillicons.dev/icons?i=python,scala,cpp&theme=light"><br>
+<img alt="my skills" src="https://skillicons.dev/icons?i=python,scala&theme=light"><br>
 Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)  
   
 <details style="font-size: 1.2em;">
@@ -45,7 +45,7 @@ plz contact me by either of the two methods below.
 ## Lang 🎓
 In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `php`.  
   
-Here are the languages I've learned in the past:  
+Here are the langs I've learned in the past:  
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light"><br><br>
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
   <div style="margin: 30px;">
