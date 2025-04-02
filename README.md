@@ -47,7 +47,6 @@ In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `p
   
 Here are the languages I've learned in the past:  
 <img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light"><br><br>
-u
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
   <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
