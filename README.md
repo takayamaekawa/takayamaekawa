@@ -55,3 +55,4 @@ Here are the langs I've learned in the past:
 
 ## Other Links 🔗
 * [gist](https://gist.github.com/bella2391)
+* [blog](https://bella2391.github.io)
