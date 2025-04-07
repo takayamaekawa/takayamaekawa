@@ -32,7 +32,7 @@ plz contact me by either of the two methods below.
 * [FMC](https://disboard.org/server/1094969099349671971) - discord
 
 ## Contribution 🏆
-[![Banner](https://github.com/bella2391/branding/blob/master/banner/fmc.png "Banner")](https://keyp.f5.si/)  
+[![Banner](https://raw.githubusercontent.com/bella2391/branding/refs/heads/master/web/banner/fmc.png "Banner")](https://keyp.f5.si/)  
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keyp.f5.si/)
 
 ## Lang 🎓
