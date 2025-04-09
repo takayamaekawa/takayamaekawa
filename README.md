@@ -3,16 +3,16 @@ I am vim-like person and also minecraft plugin/mod developer. Always every time,
 
 ## <div>I DON'T USE VSCODE&nbsp;❌
 <img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
-I used to use VSCode. But now, I have been using Neovim for a while. You know, it's called Vimmer!! Are you interested in Vim? If you do like so, it would be pleasure to see my neovim settings repo: [nvim](https://github.com/bella2391/nvim). I'm glowing up with Neovim, which is for only myself.  
+I used to use VSCode. But now, I have been using Neovim for a while. You know, it's called Vimmer!! Are you interested in Vim? If you do like so, it would be pleasure to see my neovim settings repo: [nvim](https://github.com/verazza/nvim). I'm glowing up with Neovim, which is for only myself.  
 __From 02/01/2025 ~ now__
 
 ## MY FULL DEV-ENVIRONMENT
-Here is a Docker image by my own. If interested, see [devkit](https://github.com/bella2391/devkit) in details.
+Here is a Docker image by my own. If interested, see [devkit](https://github.com/verazza/devkit) in details.
 
 ## Learn now 🔝
 I am learning `python`, `scala`.  
 <img alt="my skills" src="https://skillicons.dev/icons?i=python,scala&theme=light"><br>
-Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)  
+Visit my learning repo: [code-lab](https://github.com/verazza/code-lab)  
   
 <details style="font-size: 1.2em;">
   <summary>History ⏪</summary>
@@ -28,11 +28,11 @@ Visit my learning repo: [code-lab](https://github.com/bella2391/code-lab)
 
 ## Contact 📤
 plz contact me by either of the two methods below.
-* [X-@bella_2391](https://x.com/bella_2391)
+* [X-@verazza](https://x.com/verazza_)
 * [FMC](https://disboard.org/server/1094969099349671971) - discord
 
 ## Contribution 🏆
-[![Banner](https://raw.githubusercontent.com/bella2391/branding/refs/heads/master/web/banner/fmc.png "Banner")](https://keyp.f5.si/)  
+[![Banner](https://raw.githubusercontent.com/verazza/branding/refs/heads/master/web/banner/fmc.png "Banner")](https://keyp.f5.si/)  
 [![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://keyp.f5.si/)
 
 ## Lang 🎓
@@ -43,16 +43,16 @@ Here are the langs I've learned in the past:
 <div style="display: flex; flex-wrap: wrap; flex-direction: column;">
   <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bella2391&show_icons=true&theme=gruvbox_light&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verazza&show_icons=true&theme=gruvbox_light&layout=compact" />
     </a>
   </div>
   <div style="margin: 30px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=bella2391&show_icons=true&theme=moltack" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=verazza&show_icons=true&theme=moltack" />
     </a>
   </div>
 </div><br>
 
 ## Other Links 🔗
-* [gist](https://gist.github.com/bella2391)
-* [blog](https://bblog.f5.si)
+* [gist](https://gist.github.com/verazza)
+* [blog](https://verazza.f5.si)
