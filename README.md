@@ -29,7 +29,7 @@ Visit my learning repo: [code-lab](https://github.com/verazza/code-lab)
 ## Contact 📤
 plz contact me by either of the two methods below.
 * [X-@verazza](https://x.com/verazza_)
-* [FMC](https://disboard.org/server/1094969099349671971) - discord
+* [Kishax](https://disboard.org/server/1094969099349671971) - discord
 
 ## Contribution 🏆 
 - Kishax  
