@@ -32,7 +32,8 @@ plz contact me by either of the two methods below.
 * [FMC](https://disboard.org/server/1094969099349671971) - discord
 
 ## Contribution 🏆 
-[![Visit Kishax Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://kishax.f5.si/)
+- Kishax  
+[![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://kishax.f5.si/)
 
 ## Lang 🎓
 In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `php`.  
