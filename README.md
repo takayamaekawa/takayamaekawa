@@ -15,7 +15,7 @@ If it runs on the command line, I’m into it.
 
 - [`nvim`](https://github.com/verazza/dotfiles/tree/main/.config/nvim): My custom Neovim setup — minimal, fast, and battle-tested  
 - [`devkit`](https://github.com/verazza/WSL-DevKit): A reproducible, containerized dev environment for WSL  
-- [`kishax`](https://github.com/verazza/kishax): A small, expressive shell language project
+- [`kishax`](https://github.com/verazza/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.
 
 ---
 
