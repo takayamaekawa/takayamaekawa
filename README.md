@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am vim-like person and also minecraft plugin/mod developer. For example, [kishax](https://github.com/verazza/kishax) is regularly maintained by me. Always every time, interesting about programming, and running it right away. This is what I'm good at.
+I am cli-like person and also minecraft plugin/mod developer. For example, [kishax](https://github.com/verazza/kishax) is regularly maintained by me. Always every time, interesting about programming, and running it right away. This is what I'm good at.
 
 ## <div>I DON'T USE VSCODE&nbsp;❌
 <img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br>
