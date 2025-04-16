@@ -20,5 +20,5 @@ If it runs on the command line, I’m into it.
 ---
 
 📖 I blog at [verazza.f5.si](https://verazza.f5.si)  
-🖥 I build stuff that makes development faster — and a little more fun.
+🖥 I build stuff that makes development faster — and a little more fun.  
 👀 Curious about the full story? [Read my full self-intro](https://github.com/verazza/verazza/blob/main/README_FULL.md)
