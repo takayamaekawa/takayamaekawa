@@ -10,8 +10,8 @@ __From 02/01/2025 ~ now__
 Here is a Docker image by my own. If interested, see [devkit](https://github.com/verazza/devkit) in details.
 
 ## Learn now 🔝
-I am learning `python`, `scala`.  
-<img alt="my skills" src="https://skillicons.dev/icons?i=python,scala&theme=light"><br>
+I am learning `scala`.  
+<img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"><br>
 Visit my learning repo: [code-lab](https://github.com/verazza/code-lab)  
   
 <details style="font-size: 1.2em;">
