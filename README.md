@@ -13,7 +13,7 @@ If it runs on the command line, I’m into it.
 
 ### Featured Projects
 
-- [`nvim`](https://github.com/verazza/dotfiles/tree/main/.config/nvim): My custom Neovim setup — minimal, fast, and battle-tested  
+- [`nvim`](https://github.com/verazza/nvim): My custom Neovim setup — minimal, fast, and battle-tested  
 - [`devkit`](https://github.com/verazza/WSL-DevKit): A reproducible, containerized dev environment for WSL  
 - [`kishax`](https://github.com/verazza/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.
 
