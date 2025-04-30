@@ -33,7 +33,7 @@ plz contact me by either of the two methods below.
 
 ## Contribution 🏆 
 - Kishax  
-[![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://kishax.f5.si/)
+[![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://kishax.net/)
 
 ## Lang 🎓
 In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `php`.  
@@ -55,4 +55,4 @@ Here are the langs I've learned in the past:
 
 ## Other Links 🔗
 * [gist](https://gist.github.com/verazza)
-* [blog](https://verazza.f5.si)
+* [blog](https://verazza.dev)
