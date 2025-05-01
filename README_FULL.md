@@ -55,4 +55,5 @@ Here are the langs I've learned in the past:
 
 ## Other Links 🔗
 * [gist](https://gist.github.com/verazza)
-* [blog](https://verazza.dev)
+* blog - [verazza.dev](https://verazza.dev)
+* cloudflare workers - [verazza.work](https://verazza.work)

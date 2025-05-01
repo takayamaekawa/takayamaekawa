@@ -15,7 +15,11 @@ If it runs on the command line, I’m into it.
 
 - [`nvim`](https://github.com/verazza/nvim): My custom Neovim setup — minimal, fast, and battle-tested  
 - [`devkit`](https://github.com/verazza/devkit): A reproducible, containerized dev environment for WSL  
-- [`kishax`](https://github.com/verazza/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.
+- [`kishax`](https://github.com/verazza/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.  
+  → [Visit kishax.net](https://kishax.net/)  
+
+- [`hono-worker`](https://github.com/verazza/hono-worker): A static site project using the Hono framework on Cloudflare Workers — fast, lightweight, and serverless.  
+  → [Visit verazza.work](https://verazza.work/)
 
 ---
 
