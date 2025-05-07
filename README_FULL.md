@@ -53,7 +53,7 @@ Here are the langs I've learned in the past:
 </div><br>
 
 ## Other Links 🔗
-* [gist](https://gist.github.com/verazza)
 * my-portfolio - [verazza.dev](https://verazza.dev)
 * blog - [verazza.dev/blog](https://verazza.dev/blog)
 * cloudflare workers - [verazza.work](https://verazza.work)
+* [gist](https://gist.github.com/verazza)
