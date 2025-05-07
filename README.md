@@ -23,6 +23,7 @@ If it runs on the command line, I’m into it.
 
 ---
 
-📖 I blog at [verazza.dev](https://verazza.dev) or [Qiita-@verazza](https://qiita.com/verazza)  
+📁 Visit my portfolio: [verazza.dev](https://verazza.dev)  
+📖 Read my blog at [verazza.dev/blog](https://verazza.dev/blog) or [Qiita-@verazza](https://qiita.com/verazza)  
 🖥 I build stuff that makes development faster — and a little more fun.  
 👀 Curious about the full story? [Read my full self-intro](https://github.com/verazza/verazza/blob/main/README_FULL.md)
