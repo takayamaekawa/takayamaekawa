@@ -21,6 +21,9 @@ If it runs on the command line, I’m into it.
 - [`hono-worker`](https://github.com/verazza/hono-worker): A static site project using the Hono framework on Cloudflare Workers — fast, lightweight, and serverless.  
   → [Visit verazza.work](https://verazza.work/)
 
+- [`mcp`](https://github.com/verazza/mcp): GitHub activity analytics over SSE. Track your daily commits, additions, deletions, and weekly trends in real time.  
+  → Built with Cloudflare Workers and deployed as a self-hosted monitoring tool.
+
 ---
 
 📁 Visit my portfolio: [verazza.dev](https://verazza.dev)  
