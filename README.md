@@ -24,6 +24,10 @@ If it runs on the command line, I’m into it.
 - [`mcp`](https://github.com/verazza/mcp): GitHub activity analytics over SSE. Track your daily commits, additions, deletions, and weekly trends in real time.  
   → Built with Cloudflare Workers and deployed as a self-hosted monitoring tool.
 
+
+- [`bbs`](https://github.com/verazza/bbs): A modern revival of my old-school PHP bulletin board system — rebuilt with today's engineering practices.  
+  This project brings back my original BBS, now restructured with reusable components, proper class design, and clean PHP functions.  
+  → A nostalgic project reborn with modular architecture and developer craftsmanship.
 ---
 
 📁 Visit my portfolio: [verazza.dev](https://verazza.dev)  
