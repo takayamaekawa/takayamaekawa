@@ -20,7 +20,7 @@ If it runs on the command line, I’m into it.
 
 ---
 #### 🆙 Recently Projects
-- [`hono-worker`](https://github.com/verazza/hono-worker): A static site project using the Hono framework on Cloudflare Workers — fast, lightweight, and serverless.  
+- [`devfolio`](https://github.com/verazza/devfolio): A static site project using the Hono framework on Cloudflare Workers — fast, lightweight, and serverless.  
   → [Visit verazza.dev](https://verazza.dev/)
 
 - [`mcp`](https://github.com/verazza/mcp): GitHub activity analytics over SSE. Track your daily commits, additions, deletions, and weekly trends in real time.  
