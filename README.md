@@ -1,6 +1,6 @@
 ## Who am I?
 
-Hey, I’m verazza — a developer who thrives in the terminal.  
+Hey, I’m **Takaya Maekawa (前川 鷹哉)** — also known as *verazza*, a developer who thrives in the terminal.  
 I don't use VSCode ❌. I live and breathe Neovim 💨.  
 If it runs on the command line, I’m into it.
 
@@ -19,17 +19,22 @@ If it runs on the command line, I’m into it.
   → [Visit kishax.net](https://kishax.net/)  
 
 ---
+
 #### 🆙 Recently Projects
+
 - [`devfolio`](https://github.com/verazza/devfolio): A static site project using the Hono framework on Cloudflare Workers — fast, lightweight, and serverless.  
   → [Visit verazza.dev](https://verazza.dev/)
 
 - [`mcp`](https://github.com/verazza/mcp): GitHub activity analytics over SSE. Track your daily commits, additions, deletions, and weekly trends in real time.  
   → Built with Cloudflare Workers and deployed as a self-hosted monitoring tool.
 
-
 - [`bbs`](https://github.com/verazza/bbs): A modern revival of my old-school PHP bulletin board system — rebuilt with today's engineering practices.  
   This project brings back my original BBS, now restructured with reusable components, proper class design, and clean PHP functions.  
   → A nostalgic project reborn with modular architecture and developer craftsmanship.
+
+- [`fisherman`](https://github.com/verazza/fisherman): A real-world website project for a local fish market, serving as a training tool for part-time staff.  
+  I'm involved as the site administrator and content editor, supporting real users with updates and improvements.
+
 ---
 
 📁 Visit my portfolio: [verazza.dev](https://verazza.dev)  
