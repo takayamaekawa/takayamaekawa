@@ -1,6 +1,16 @@
+# Takaya Maekawa - 前川 鷹哉
+
+- **Nationality**: Japanese  
+- **Age / Gender / Status**: 21 / Male / University Student  
+- **Profession**: Programmer  
+- **Contact**: [takaya@maekawa.dev](mailto:takaya@maekawa.dev)  
+- **Editor Style**: CLI-like workflow without VSCode. Neovim all the way.  
+
+---
+
 ## Who am I?
 
-Hey, I’m **Takaya Maekawa (前川 鷹哉)**, a developer who thrives in the terminal.  
+Hey, I’m **Takaya Maekawa (前川 鷹哉)** — a developer who thrives in the terminal.  
 I don't use VSCode ❌. I live and breathe Neovim 💨.  
 If it runs on the command line, I’m into it.
 
