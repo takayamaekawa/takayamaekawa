@@ -44,7 +44,7 @@ If it runs on the command line, I’m into it.
 
 - [`fisherman`](https://github.com/takayamaekawa/fisherman): A real-world website project for a local fish market, serving as a training tool for part-time staff.  
   I'm involved as the site administrator and content editor, supporting real users with updates and improvements.
-
+  → [Visit fisherman.work](https://fisherman.work/)
 ---
 
 📁 Visit my portfolio: [maekawa.dev](https://maekawa.dev)  
