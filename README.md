@@ -51,3 +51,4 @@ If it runs on the command line, I’m into it.
 📖 Read my blog at [maekawa.dev/blog](https://maekawa.dev/blog) or [Qiita-@takaya_maekawa](https://qiita.com/takaya_maekawa)  
 🖥 I build stuff that makes development faster — and a little more fun.  
 👀 Curious about the full story? [Read my full self-intro](https://github.com/takayamaekawa/takayamaekawa/blob/main/README_FULL.md)
+test
