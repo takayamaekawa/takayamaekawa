@@ -1,50 +1,72 @@
-## Hi there 👋
-I am cli-like person and also minecraft plugin/mod developer. For example, [kishax](https://github.com/takayamaekawa/kishax) is regularly maintained by me. Always every time, interesting about programming, and running it right away. This is what I'm good at.
+## Hi there 👋  
+I’m a CLI-driven developer who also creates Minecraft plugins and mods.  
+I maintain projects like [kishax](https://github.com/takayamaekawa/kishax), and I’m always curious about programming — then running it instantly. That’s what I do best.
 
-## <div>I DON'T USE VSCODE&nbsp;❌
-<img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" /><br> The CLI is highly customizable! Of course, I used to use VSCode. But now, I have been using Neovim for a while. You know, it's called Vimmer!! Are you interested in Vim? If you do like so, it would be pleasure to see my neovim settings repo: [nvim](https://github.com/takayamaekawa/nvim). I'm glowing up with Neovim, which is for only myself.  
-__From 02/01/2025 ~ now__
+---
 
-## MY FULL DEV-ENVIRONMENT
-Here is a Docker image by my own. If interested, see [devkit](https://github.com/takayamaekawa/devkit) in details.
+## 🚫 I DON'T USE VSCODE  
+<img alt="my skills" src="https://skillicons.dev/icons?i=vscode&theme=light">&nbsp;
+<img src="https://cdn.pixabay.com/animation/2022/10/06/13/44/13-44-02-515_256.gif" width="35px" height="auto">&nbsp;
+<img src="https://skillicons.dev/icons?i=vim,neovim&theme=light" />
 
-## Learn now 🔝
-I am learning `scala`.  
-<img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"><br>
-Visit my learning repo: [code-lab](https://github.com/takayamaekawa/code-lab)  
-  
-<details style="font-size: 1.2em;">
-  <summary>History ⏪</summary>
+> The terminal is my IDE. I’ve ditched VSCode for a fully customized, minimal Neovim setup.  
+> If you’re a fellow Vimmer, check out my config: [nvim](https://github.com/takayamaekawa/nvim)  
+📅 Since: `2025-02-01 ~ now`
+
+---
+
+## 🔧 Full Dev Environment  
+I ship code using a reproducible, containerized development environment.  
+🧪 See: [`devkit`](https://github.com/takayamaekawa/devkit)
+
+---
+
+## 💻 Languages & Learning  
+I enjoy exploring and learning different languages and paradigms. Here's what I use and learn:
+
+### 🔥 Currently using
+- `Java` (main) — Minecraft, backend, CLI tools
+- `JavaScript/TypeScript` — Web projects, automation
+- `Python` — Scripts, backend tools
+- `PHP` — Legacy systems, BBS rework
+
+### 🚀 Currently learning
+- `Scala` — Functional programming, typed systems
+- `C/C++` — Low-level system control
+
+### 📜 Previously touched
+- `Rust` — (briefly, but solid syntax & memory safety)
+
+<img alt="langs" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light" /><br>
+
+<details>
+  <summary>📅 Learning History</summary>
   <ul>
-    <li><code>scala</code> - 03/10/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=scala&theme=light"></li>
-    <li><code>c/c++</code> - 02/01/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=c,cpp&theme=light"></li>
-    <li><code>js/ts</code> - 01/01/2025 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=js,ts&theme=light"></li>
-    <li><code>rust</code> - 12/01/2024 ~ 12/01/2024 <br><img alt="my skills" src="https://skillicons.dev/icons?i=rust&theme=light"></li>
-    <li><code>java</code> - 10/01/2023 ~ now <br><img alt="my skills" src="https://skillicons.dev/icons?i=java&theme=light"></li>
-    <li><code>php</code> - 05/01/2022 ~ xx/xx/2024 <br><img alt="my skills" src="https://skillicons.dev/icons?i=php&theme=light"></li>
+    <li><code>scala</code> — 2025-03-10 ~ now</li>
+    <li><code>c/c++</code> — 2025-02-01 ~ now</li>
+    <li><code>js/ts</code> — 2025-01-01 ~ now</li>
+    <li><code>rust</code> — 2024-12-01 ~ 2024-12-01</li>
+    <li><code>java</code> — 2023-10-01 ~ now</li>
+    <li><code>php</code> — 2022-05-01 ~ 2024-xx-xx</li>
   </ul>
 </details>
 
-## Contact 📤
-see [https://maekawa.dev/contact](https://maekawa.dev/contact) for more details.
+---
 
-## Contribution 🏆 
-- Kishax  
-[![Visit Website](https://img.shields.io/badge/Visit_Website-007BFF?style=for-the-badge)](https://kishax.net/)
+## 📊 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takayamaekawa&show_icons=true&theme=gruvbox_light&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=takayamaekawa&show_icons=true&theme=moltack" />
+</a>
 
-## Lang 🎓
-In my view, the best lang i can use is `java`, to the next `js/ts`, `python`, `php`.  
-  
-Here are the langs I've learned in the past:  
-<img alt="my skills" src="https://skillicons.dev/icons?i=java,gradle,js,ts,nodejs,php,c,cpp,python,scala,rust&theme=light"><br><br>
-<div style="display: flex; flex-wrap: wrap; flex-direction: column;">
-  <div style="margin: 30px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takayamaekawa&show_icons=true&theme=gruvbox_light&layout=compact" />
-    </a>
-  </div>
-  <div style="margin: 30px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+---
+
+## 🔗 Links
+- 🖥 Portfolio: [maekawa.dev](https://maekawa.dev)
+- 📝 Blog: [maekawa.dev/blog](https://maekawa.dev/blog)
+- 🧩 Gist: [gist.github.com/takayamaekawa](https://gist.github.com/takayamaekawa)
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=takayamaekawa&show_icons=true&theme=moltack" />
     </a>
   </div>
