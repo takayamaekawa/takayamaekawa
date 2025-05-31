@@ -67,10 +67,6 @@ I enjoy exploring and learning different languages and paradigms. Here's what I 
 - 🖥 Portfolio: [maekawa.dev](https://maekawa.dev)
 - 📝 Blog: [maekawa.dev/blog](https://maekawa.dev/blog)
 - 🧩 Gist: [gist.github.com/takayamaekawa](https://gist.github.com/takayamaekawa)
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=takayamaekawa&show_icons=true&theme=moltack" />
-    </a>
-  </div>
-</div><br>
 
 ## Other Links 🔗
 * my-portfolio - [maekawa.dev](https://maekawa.dev)
