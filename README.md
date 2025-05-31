@@ -2,7 +2,6 @@
 
 - **Nationality**: Japanese  
 - **Age / Gender / Status**: 21 / Male / University Student  
-- **Profession**: Programmer  
 - **Contact**: [takaya@maekawa.dev](mailto:takaya@maekawa.dev)  
 - **Editor Style**: CLI-like workflow without VSCode. Neovim all the way.  
 
