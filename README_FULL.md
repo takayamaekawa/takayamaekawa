@@ -1,6 +1,5 @@
 ## Hi there 👋  
-I’m a CLI-driven developer who also creates Minecraft plugins and mods.  
-I maintain projects like [kishax](https://github.com/takayamaekawa/kishax), and I’m always curious about programming — then running it instantly. That’s what I do best.
+I live in the terminal. I explore ideas, code them fast, and run them faster.
 
 ---
 
