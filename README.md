@@ -1,7 +1,7 @@
 # Takaya Maekawa - 前川 鷹哉
 
 - **Nationality**: Japanese  
-- **Age / Gender / Status**: 21 / Male / University Student    
+- **Age / Gender / Status**: 21 / Male  
 - **Contact**: [takaya@maekawa.dev](mailto:takaya@maekawa.dev)  
 
 ---
@@ -10,7 +10,8 @@
 
 Hey, I’m **Takaya Maekawa (前川 鷹哉)** — a developer who thrives in the terminal.  
 I don't use VSCode ❌. I live and breathe Neovim 💨.  
-If it runs on the command line, I’m into it.
+If it runs on the command line, I’m into it.  
+**I am an owner of [KishaX](https://github.com/Kishax) for minecraft server provider with their self-plugins and some businesses.**
 
 ### Interests
 
@@ -23,7 +24,7 @@ If it runs on the command line, I’m into it.
 
 - [`nvim`](https://github.com/takayamaekawa/nvim): My custom Neovim setup — minimal, fast, and battle-tested  
 - [`devkit`](https://github.com/takayamaekawa/devkit): A reproducible, containerized dev environment for WSL  
-- [`kishax`](https://github.com/takayamaekawa/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.  
+- [`kishax`](https://github.com/Kishax/kishax): Start a server. Create wild images. All with kishax — Minecraft scripting made fun.  
   → [Visit kishax.net](https://kishax.net/)  
 
 ---
@@ -36,7 +37,7 @@ If it runs on the command line, I’m into it.
 - [`mcp`](https://github.com/takayamaekawa/mcp): GitHub activity analytics over SSE. Track your daily commits, additions, deletions, and weekly trends in real time.  
   → Built with Cloudflare Workers and deployed as a self-hosted monitoring tool.
 
-- [`bbs`](https://github.com/takayamaekawa/bbs): A modern revival of my old-school PHP bulletin board system — rebuilt with today's engineering practices.  
+- [`bbs`](https://github.com/Kishax/bbs): A modern revival of my old-school PHP bulletin board system — rebuilt with today's engineering practices.  
   This project brings back my original BBS, now restructured with reusable components, proper class design, and clean PHP functions.  
   → A nostalgic project reborn with modular architecture and developer craftsmanship.
 
